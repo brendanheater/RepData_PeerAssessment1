@@ -223,9 +223,9 @@ I could not determine how to manipulate this data within the context of a single
 ```
 
 ```
-## The following objects are masked from combo (pos = 4):
+## The following objects are masked from combo (pos = 3):
 ## 
-##     daily, interval
+##     daily, interval, type
 ## 
 ## The following objects are masked from combo (pos = 5):
 ## 
@@ -240,6 +240,10 @@ I could not determine how to manipulate this data within the context of a single
 ##     daily, interval
 ## 
 ## The following objects are masked from combo (pos = 8):
+## 
+##     daily, interval
+## 
+## The following objects are masked from combo (pos = 9):
 ## 
 ##     daily, interval
 ```
